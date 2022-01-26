@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/coingecko-java-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/converter-jackson-2.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-2.10.1.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.10.1.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.10.1.jar"/>
+	<classpathentry kind="lib" path="lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/lombok-1.18.10.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-8.0.27.jar"/>
+	<classpathentry kind="lib" path="lib/okhttp-3.14.9.jar"/>
+	<classpathentry kind="lib" path="lib/okio-1.17.2.jar"/>
+	<classpathentry kind="lib" path="lib/retrofit-2.9.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
