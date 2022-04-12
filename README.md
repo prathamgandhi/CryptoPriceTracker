@@ -5,7 +5,7 @@ This project can be used to track the prices of different cryptocurrencies in re
 It can also be used to find the most popular exchanges of the current time.
 
 ## Screenshots of working app
-*Dashboard
+**Dashboard
 <img src = "https://github.com/prathamgandhi/CryptoPriceTracker/blob/master/screenshots/1.png">
 *Popular Exchanges with their trust scores
 <img src = "https://github.com/prathamgandhi/CryptoPriceTracker/blob/master/screenshots/2.png">
